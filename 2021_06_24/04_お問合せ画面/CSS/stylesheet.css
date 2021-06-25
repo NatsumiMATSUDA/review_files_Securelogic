@@ -1,0 +1,69 @@
+html {
+  font-size: 62.5%;
+}
+
+body{
+	color: #333333;
+	background-color: #FFF;
+	line-height: 1.7;
+	-webkit-text-size-adjust: 100%;
+  height: 100vh;
+  width: 100vw;
+  padding: 0;
+  margin: 0;
+  color: #555455;
+}
+
+
+h2 {
+  padding-bottom: 5rem;
+  margin: 0;
+  font-size: 4rem;
+}
+
+p {
+  font-size: 2rem;
+}
+
+img {
+  width: 30vw;
+  height: auto;
+  padding: 0.5rem;
+}
+
+.header_space {
+  height: 7%;
+  width: 100vw;
+  background-color: #FFF;
+}
+
+.main {
+  height: 81%;
+  width: 100vw;
+  align-items: center;
+  background-image: url(../pic/botanical_screen.png);
+  background-size:cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.main__logos {
+  width: 65%;
+  display: flex;
+  align-content: space-around;
+  justify-content: center;
+  flex-flow: flex-directionの値 flex-wrapの値;
+  flex-wrap:wrap;
+}
+
+.main__text {
+  margin-right: 19vw;
+  margin-left: auto;
+}
+
+.footer_space {
+  height: 12%;
+  width: 100vw;
+  background-color: #FFF;
+}
