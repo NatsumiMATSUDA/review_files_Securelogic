@@ -12,7 +12,6 @@ grid {
 
 @media (min-width: 50em) {
 
-
 .wrapper {
   display: grid;
   grid-template-rows: auto auto;
