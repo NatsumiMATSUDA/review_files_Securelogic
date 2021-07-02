@@ -73,12 +73,26 @@ grid {
 }
 
 .product_wrapper {
-  display: grid;
+  display: flex;
   gap: 10px;
-  grid-template-columns: repeat(3, minmax(200px, 1fr));
+}
+
+.product_wrapper .product_box {
+  width: 33%;
 }
 
 .product_box img {
   max-width: 100%;
   height: auto;
+}
+
+@media (max-width: 50em){
+  .product_wrapper {
+    display:  block;
+  }
+
+  .product_wrapper .product_box {
+    width: auto;
+    margin-bottom: 10px;
+  }
 }
