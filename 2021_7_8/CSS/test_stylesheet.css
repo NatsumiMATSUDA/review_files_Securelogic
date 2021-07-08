@@ -1,0 +1,99 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+header {
+  padding-top: 1rem;
+  padding-bottom: 7.3rem;
+  text-align: center;
+}
+
+
+h1 {
+  font-size: 4.8rem;
+  font-weight: normal;
+}
+
+hgroup {
+  border-bottom: solid 0.2rem;
+  display: flex;
+  align-items: baseline;
+}
+
+h2 {
+  font-size: 3rem;
+  color: #e8383e;
+  font-weight: bold;
+  padding: 0;
+  margin: 0;
+  flex: 3;
+}
+
+.download_all {
+  width: auto;
+  height: 3rem;
+  flex: 1;
+}
+
+.logo {
+  width: auto;
+  height: 3rem;
+  flex: 1;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.flex__content {
+  width: 40rem;
+  max-width: 40rem;
+  min-width: 30rem;
+  height: auto;
+  padding: 0.5rem;
+}
+
+.h3_phrame {
+  height: 6rem;
+  margin-top: 1.8rem;
+  margin-bottom: 1.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h3 {
+  padding: 0;
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: normal;
+  color: #ffffff;
+}
+
+.catalog_image {
+  display: block;
+  width: 30rem;
+  height: auto;
+  border: solid 0.1rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-around;
+}
+
+.preview_dl_button {
+  padding: 0.7rem;
+  width: auto;
+  height: 4rem;
+}

@@ -1,0 +1,15 @@
+閲覧用
+https://cons-technofair.jp/vr/ctf2021/PDF/pdfjs/web/viewer.html?file=../../指定されている英数字/PDFの名前.pdf
+
+DL用
+https://cons-technofair.jp/doc/ctf2021/PDF/指定されている英数字/PDFの名前.pdfか.zip
+
+動画用
+https://cons-technofair.jp/vr/ctf2021/movie/指定されてる英数字.html
+
+
+閲覧用の例
+https://cons-technofair.jp/vr/ctf2021/PDF/pdfjs/web/viewer.html?file=../../AC-1/cons_CORPORATE-PROFILE.pdf
+
+DL用の例
+https://cons-technofair.jp/doc/ctf2021/PDF/Z-9/kakushushiken.zip
