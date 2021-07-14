@@ -11,6 +11,8 @@ body {
   padding-right: 5rem;
   margin: 0;
   background-image: url(../pic/shutterstock_170341789031111.jpg);
+  min-width: 600px;
+  overflow: auto;
 }
 
 header {
@@ -28,6 +30,7 @@ hgroup {
   border-bottom: solid 0.2rem;
   display: flex;
   align-items: baseline;
+  justify-content: space-between;
 }
 
 h2 {
